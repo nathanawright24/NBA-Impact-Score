@@ -1,0 +1,185 @@
+PLAYER,Team(s),Pos,G,MP,Off,Def,Tot,WAR
+Buddy Hield,"IND, PHI","SF, SG",84,"2,160",0.9,-0.7,0.2,3.3
+Domantas Sabonis,SAC,C,82,"2,928",2.5,-0.1,2.4,8.2
+Chet Holmgren,OKC,C,82,"2,413",0.1,1.7,1.8,5.9
+Payton Pritchard,BOS,PG,82,"1,825",1.6,-0.4,1.2,3.8
+Nickeil Alexander-Walker,MIN,SG,82,"1,921",-0.4,1.6,1.1,3.9
+Obi Toppin,IND,PF,82,"1,730",1.3,-0.6,0.8,3.2
+Mikal Bridges,BRK,SF,82,"2,854",1.5,-0.7,0.7,5.2
+Cason Wallace,OKC,SG,82,"1,692",-0.4,0.9,0.6,2.9
+Austin Reaves,LAL,SG,82,"2,629",1.5,-0.9,0.5,4.5
+Paul Reed,PHI,C,82,"1,590",-1,1.4,0.3,2.5
+Bobby Portis,MIL,PF,82,"2,008",-0.1,0.3,0.2,3.1
+Jonas Valanciunas,NOP,C,82,"1,925",-0.4,0.3,-0.1,2.6
+Jalen Green,HOU,SG,82,"2,601",-0.2,-0.4,-0.5,2.8
+Harrison Barnes,SAC,PF,82,"2,381",-0.4,-1.2,-1.6,1.1
+Christian Braun,DEN,SG,82,"1,655",-1.7,0,-1.7,0.7
+Georges Niang,CLE,PF,82,"1,831",-2.6,-0.5,-3.1,-0.7
+Reggie Jackson,DEN,PG,82,"1,817",-1.8,-1.6,-3.3,-0.9
+Donte DiVincenzo,NYK,SG,81,"2,360",2,0.7,2.7,7
+Michael Porter Jr.,DEN,SF,81,"2,565",1.4,0.6,2,6.5
+Josh Hart,NYK,SF,81,"2,707",-0.3,1.7,1.5,6.1
+Naz Reid,MIN,C,81,"1,964",-1,1.2,0.2,2.9
+Cole Anthony,ORL,PG,81,"1,817",-1.5,0.9,-0.7,1.8
+Pascal Siakam,"TOR, IND",PF,80,"2,657",2.9,-1,1.9,6.7
+Moritz Wagner,ORL,C,80,"1,415",1.7,-0.7,1,2.8
+Josh Giddey,OKC,SG,80,"2,011",0.2,0.6,0.8,3.8
+Paolo Banchero,ORL,PF,80,"2,799",0,0.2,0.2,4.3
+Dennis Schröder,"TOR, BRK",PG,80,"2,486",-0.3,-1.2,-1.6,1.3
+Peyton Watson,DEN,SF,80,"1,488",-2.7,1,-1.7,0.6
+Corey Kispert,WAS,SF,80,"2,067",0.3,-2.4,-2.1,0.4
+Nikola Jokic,DEN,C,79,"2,737",7.3,1.6,8.9,17.9
+Anthony Edwards,MIN,SG,79,"2,770",2.7,1.1,3.8,9.9
+DeMar DeRozan,CHI,SF,79,"2,989",4,-0.8,3.2,9.7
+Sam Hauser,BOS,SF,79,"1,741",1.8,0.8,2.5,4.9
+Bogdan Bogdanovic,ATL,SG,79,"2,401",1.7,-0.2,1.5,5.4
+Andre Drummond,CHI,C,79,"1,351",-0.8,2,1.2,2.8
+Kyle Anderson,MIN,PF,79,"1,782",-1.3,2,0.8,3.3
+Royce O'Neale,"BRK, PHO",SF,79,"1,954",-0.5,1.3,0.7,3.5
+Luguentz Dort,OKC,SF,79,"2,246",-0.1,0.7,0.7,4
+Malik Beasley,MIL,SG,79,"2,337",0.1,0.2,0.3,3.7
+Brook Lopez,MIL,C,79,"2,411",-1.2,1,-0.2,3
+Tim Hardaway Jr.,DAL,SF,79,"2,120",0.5,-1.4,-0.9,1.9
+Coby White,CHI,PG,79,"2,881",-0.1,-1.4,-1.5,1.6
+Collin Sexton,UTA,SG,78,"2,075",4.8,-2.3,2.5,5.9
+Aaron Wiggins,OKC,SG,78,"1,228",1.1,0.6,1.6,2.9
+Dejounte Murray,ATL,SG,78,"2,783",2.2,-0.9,1.3,6
+Isaiah Joe,OKC,SG,78,"1,445",0.6,0.2,0.9,2.7
+Kelly Olynyk,"UTA, TOR",C,78,"1,759",0.7,-1.1,-0.4,2.1
+Aaron Holiday,HOU,PG,78,"1,269",-1.2,-0.1,-1.3,0.8
+Cameron Payne,"MIL, PHI",PG,78,"1,304",-0.6,-1.4,-2,0.3
+Jordan Poole,WAS,SG,78,"2,346",-1.3,-1.7,-3,-0.7
+Taurean Prince,LAL,PF,78,"2,108",-2.7,-0.4,-3.1,-0.8
+Jeff Green,HOU,PF,78,"1,307",-2,-1.1,-3.2,-0.5
+Ochai Agbaji,"UTA, TOR",SG,78,"1,641",-3.3,-0.7,-3.9,-1.4
+Jalen Brunson,NYK,PG,77,"2,726",5.5,-1,4.6,11
+Jarrett Allen,CLE,C,77,"2,442",1.5,0.8,2.3,6.6
+Keegan Murray,SAC,SF,77,"2,588",0.8,0.7,1.6,5.9
+Tre Jones,SAS,PG,77,"2,138",0.6,0.4,1,4.2
+Myles Turner,IND,C,77,"2,076",0.2,0.1,0.3,3.3
+Klay Thompson,GSW,SF,77,"2,284",1.4,-1.2,0.2,3.4
+Jaden Ivey,DET,SG,77,"2,217",-0.8,-1.2,-2,0.6
+Anthony Davis,LAL,C,76,"2,700",2.4,1.7,4.1,10
+Herbert Jones,NOP,SF,76,"2,321",0.9,1.7,2.6,6.7
+Mike Conley,MIN,PG,76,"2,193",1.6,0.9,2.4,6.1
+Kentavious Caldwell-Pope,DEN,SG,76,"2,402",0,2.1,2.2,6.4
+Rudy Gobert,MIN,C,76,"2,593",-0.8,2.9,2.1,6.7
+Jusuf Nurkic,PHO,C,76,"2,078",-1.3,2.6,1.2,4.4
+D'Angelo Russell,LAL,PG,76,"2,484",1.4,-0.6,0.7,4.5
+Norman Powell,LAC,SG,76,"1,990",1.3,-0.9,0.3,3.2
+Derrick Jones Jr.,DAL,SF,76,"1,783",-0.5,0.3,-0.2,2.3
+Ayo Dosunmu,CHI,SG,76,"2,212",0.3,-0.8,-0.5,2.5
+Jabari Smith Jr.,HOU,PF,76,"2,424",-1.7,0.5,-1.2,1.8
+Spencer Dinwiddie,"BRK, LAL",PG,76,"2,152",-0.8,-0.5,-1.3,1.4
+Pat Connaughton,MIL,SF,76,"1,676",-0.9,-0.7,-1.7,0.7
+Nikola Vucevic,CHI,C,76,"2,610",-0.8,-1,-1.7,1.1
+Grant Williams,"DAL, CHO",PF,76,"2,130",-2.1,-0.9,-3,-0.7
+Shai Gilgeous-Alexander,OKC,PG,75,"2,553",7.1,1.7,8.8,16.4
+Isaiah Hartenstein,NYK,C,75,"1,896",0.5,2.9,3.5,6.5
+Kevin Durant,PHO,PF,75,"2,791",2.9,0.3,3.2,9
+Jalen Suggs,ORL,SG,75,"2,025",0.2,1.9,2.1,5.2
+Grayson Allen,PHO,SG,75,"2,513",1.5,0.3,1.9,6.2
+Jaime Jaquez Jr.,MIA,SF,75,"2,113",0.1,0.9,1,4.2
+Deni Avdija,WAS,SF,75,"2,257",0,-0.2,-0.1,3
+Terance Mann,LAC,SG,75,"1,873",0.1,-1,-0.9,1.7
+Drew Eubanks,PHO,C,75,"1,169",-3.1,-0.6,-3.8,-0.9
+Keyonte George,UTA,PG,75,"2,023",-2.4,-3,-5.3,-3.3
+Malaki Branham,SAS,PG,75,"1,594",-3.9,-2.5,-6.4,-3.6
+Jayson Tatum,BOS,PF,74,"2,645",3.9,0.7,4.6,10.6
+Paul George,LAC,PF,74,"2,502",3.2,1.2,4.4,9.9
+De'Aaron Fox,SAC,PG,74,"2,659",2.6,0.8,3.5,9
+Daniel Gafford,"WAS, DAL","C, PF",74,"1,815",0.4,1.8,2.2,4.8
+Stephen Curry,GSW,PG,74,"2,421",3.3,-1.5,1.8,5.9
+Brandin Podziemski,GSW,SG,74,"1,968",0.4,1.1,1.5,4.5
+Jonathan Kuminga,GSW,PF,74,"1,949",1.1,-0.1,1.1,3.9
+Julian Champagnie,SAS,SF,74,"1,468",-1.4,0.5,-0.9,1.3
+Kevon Looney,GSW,C,74,"1,194",-1.3,0.1,-1.2,0.9
+Brandon Miller,CHO,SF,74,"2,383",-0.5,-1.2,-1.7,1
+Precious Achiuwa,"NYK, TOR","PF, C",74,"1,624",-2.4,0.7,-1.7,0.7
+Jeremy Sochan,SAS,PF,74,"2,193",-2.9,-0.1,-3,-0.7
+Giannis Antetokounmpo,MIL,PF,73,"2,567",6.3,0.8,7.1,14.1
+Derrick White,BOS,SG,73,"2,381",2.8,1.7,4.5,9.4
+Fred VanVleet,HOU,PG,73,"2,684",1.9,1,2.9,8.2
+Damian Lillard,MIL,PG,73,"2,579",3.2,-0.6,2.7,7.6
+Aaron Gordon,DEN,PF,73,"2,297",1.2,0.7,1.9,5.8
+Clint Capela,ATL,C,73,"1,883",-0.3,-0.1,-0.4,2.2
+P.J. Washington,"CHO, DAL",PF,73,"2,221",-2.1,0.7,-1.4,1.3
+Patrick Beverley,"PHI, MIL",PG,73,"1,462",-2.4,-0.2,-2.6,-0.1
+Jaden Hardy,DAL,SG,73,989,-1.8,-2.4,-4.2,-1
+Franz Wagner,ORL,SF,72,"2,337",2.7,0.9,3.6,8.1
+James Harden,LAC,PG,72,"2,470",2.1,0.4,2.6,7.1
+Aaron Nesmith,IND,SF,72,"1,995",1,-0.1,0.9,3.9
+Malik Monk,SAC,SG,72,"1,872",1.2,-1.2,0.1,2.7
+Jaden McDaniels,MIN,SF,72,"2,105",-1.4,0.9,-0.5,2.3
+Dillon Brooks,HOU,SF,72,"2,227",-0.8,-0.2,-1.1,1.8
+Jabari Walker,POR,SF,72,"1,700",-1.5,-0.3,-1.7,0.7
+Cedi Osman,SAS,SF,72,"1,269",-0.9,-1.4,-2.3,0.1
+Jevon Carter,CHI,PG,72,"1,004",-3.4,-0.4,-3.7,-0.7
+Davion Mitchell,SAC,PG,72,"1,101",-2.5,-2.1,-4.6,-1.3
+LeBron James,LAL,PF,71,"2,504",4.7,0.3,5.1,10.8
+Jalen Williams,OKC,PF,71,"2,223",2.9,0.4,3.3,7.4
+T.J. McConnell,IND,PG,71,"1,291",3.3,-0.3,3.1,4.1
+Alex Caruso,CHI,SG,71,"2,040",0.3,2.3,2.5,5.8
+Victor Wembanyama,SAS,C,71,"2,106",-2.1,3.5,1.5,4.7
+Bam Adebayo,MIA,C,71,"2,416",-0.3,1.2,0.9,4.6
+Nic Claxton,BRK,C,71,"2,116",-1.6,1.1,-0.5,2.4
+Gary Trent Jr.,TOR,SG,71,"1,994",0.1,-0.7,-0.6,2.1
+Andrew Wiggins,GSW,SF,71,"1,920",-0.1,-0.8,-0.9,1.7
+Marcus Sasser,DET,PG,71,"1,351",-1.7,-1.3,-3,-0.5
+Luka Doncic,DAL,PG,70,"2,624",6,0.5,6.5,13.5
+Jaylen Brown,BOS,SF,70,"2,343",3.1,0.1,3.2,7.6
+Zion Williamson,NOP,PF,70,"2,207",3.1,-0.4,2.7,6.5
+Tyrese Maxey,PHI,PG,70,"2,626",3.5,-0.8,2.7,7.7
+Tobias Harris,PHI,PF,70,"2,368",1,0.7,1.7,5.6
+Max Strus,CLE,SF,70,"2,239",0.1,1.1,1.1,4.6
+Toumani Camara,POR,PF,70,"1,739",-2.5,0.9,-1.6,0.8
+Amir Coffey,LAC,SF,70,"1,460",-0.6,-1.3,-2,0.4
+Jaxson Hayes,LAL,C,70,877,-2.4,-0.5,-2.8,-0.2
+Kyle Kuzma,WAS,PF,70,"2,281",-1.3,-1.9,-3.2,-1
+Tyrese Haliburton,IND,PG,69,"2,224",5.6,-0.5,5.1,9.7
+Jrue Holiday,BOS,PG,69,"2,263",-0.2,0.8,0.6,4
+Isaac Okoro,CLE,SF,69,"1,887",0,0.6,0.6,3.3
+Kenrich Williams,OKC,PF,69,"1,029",-1.1,0.9,-0.2,1.3
+Keldon Johnson,SAS,SF,69,"2,038",0.5,-1.1,-0.6,2.1
+Miles Bridges,CHO,SF,69,"2,581",0.3,-1.1,-0.8,2.4
+Jaylin Williams,OKC,C,69,897,-2.4,0.9,-1.5,0.5
+Malachi Flynn,"TOR, DET, NYK",PG,69,876,-2.7,-1.1,-3.8,-0.7
+Anthony Black,ORL,PG,69,"1,164",-4.2,0.3,-3.8,-0.9
+Zach Collins,SAS,C,69,"1,526",-2.8,-1.8,-4.7,-1.9
+Kawhi Leonard,LAC,SF,68,"2,330",5.7,1.4,7.1,12.8
+Devin Booker,PHO,PG,68,"2,447",4.3,-1.1,3.2,7.9
+Trayce Jackson-Davis,GSW,PF,68,"1,130",1.4,1.1,2.5,3.2
+Joe Ingles,ORL,SF,68,"1,169",0.2,1.3,1.5,2.6
+Caris LeVert,CLE,SG,68,"1,958",0.2,1.1,1.3,4.2
+Devin Vassell,SAS,SG,68,"2,248",1.5,-0.6,1,4.4
+Immanuel Quickley,"TOR, NYK","PG, SG",68,"1,985",1.7,-1.1,0.6,3.5
+Rui Hachimura,LAL,PF,68,"1,826",0.8,-0.3,0.5,3.1
+Kelly Oubre Jr.,PHI,SF,68,"2,055",-0.1,0.1,0.1,3
+Duncan Robinson,MIA,SF,68,"1,905",0.5,-0.4,0,2.7
+Eric Gordon,PHO,SG,68,"1,893",-0.2,0.1,-0.1,2.5
+Ivica Zubac,LAC,C,68,"1,794",-0.1,0,-0.1,2.4
+Russell Westbrook,LAC,PG,68,"1,529",-1.2,0.6,-0.5,1.7
+John Collins,UTA,PF,68,"1,901",0.1,-0.8,-0.6,2
+Miles McBride,NYK,PG,68,"1,328",0,-0.8,-0.8,1.3
+Dorian Finney-Smith,BRK,PF,68,"1,934",-2,0.5,-1.5,1
+Andrew Nembhard,IND,PG,68,"1,697",-1,-1.1,-2.1,0.4
+Duop Reath,POR,C,68,"1,214",-1.1,-1.2,-2.3,0.1
+Bruce Brown,"IND, TOR","SG, PG",67,"1,866",-1.6,-1,-2.7,-0.2
+Nick Richards,CHO,C,67,"1,759",-2,-1.2,-3.2,-0.7
+Jordan Hawkins,NOP,SG,67,"1,160",-1.8,-1.6,-3.4,-0.7
+Max Christie,LAL,SG,67,944,-3.2,-0.4,-3.6,-0.6
+Naji Marshall,NOP,SF,66,"1,257",0,1.4,1.4,2.8
+CJ McCollum,NOP,PG,66,"2,159",1.4,-0.2,1.2,4.6
+Moses Moody,GSW,SG,66,"1,156",0,0.4,0.4,1.9
+Simone Fontecchio,"UTA, DET",SF,66,"1,644",0.9,-0.5,0.4,2.7
+Kris Dunn,UTA,PG,66,"1,249",-0.7,1.1,0.3,2
+Tyus Jones,WAS,PG,66,"1,933",1.2,-1.5,-0.3,2.3
+Haywood Highsmith,MIA,PF,66,"1,366",-2.2,1.5,-0.7,1.3
+Cam Thomas,BRK,SG,66,"2,075",1.2,-2,-0.8,1.9
+Jaren Jackson Jr.,MEM,C,66,"2,124",-1.2,0,-1.1,1.6
+Alec Burks,"DET, NYK",SG,66,"1,212",-0.5,-2,-2.4,0
+Garrison Mathews,ATL,SG,66,992,-1.3,-2.1,-3.4,-0.5
+Matisse Thybulle,POR,SF,65,"1,487",-1.1,3.1,2,3.8
+Al Horford,BOS,C,65,"1,740",0,1.2,1.2,3.6
+Jae'Sean Tate,HOU,SF,65,"1,031",-1.8,1.6,-0.1,1.4
+David Roddy,"MEM, PHO",PF,65,"1,177",-4,-0.7,-4.7,-1.5

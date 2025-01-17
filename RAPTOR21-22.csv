@@ -1,0 +1,607 @@
+PLAYER,Team(s),Pos,MP,Off,Def,Tot,WAR
+Nikola Jokic'21-'22,Nuggets,C,"2,647",8.5,6.1,14.6,23.9
+Jayson Tatum'21-'22,Celtics,SF,"3,714",4,1.6,5.5,15.8
+Giannis Antetokounmpo'21-'22,Bucks,"SF, PF, C","2,652",5.6,2.5,8.1,15
+Stephen Curry'21-'22,Warriors,PG,"2,975",6.2,0.6,6.8,14.9
+Joel Embiid'21-'22,76ers,C,"2,682",3.6,4.2,7.8,14.5
+Luka Doncic'21-'22,Mavericks,"PG, SG, SF","2,853",5.7,0.6,6.4,13.6
+Jimmy Butler'21-'22,Heat,"SG, SF","2,560",4.7,1.3,6,11.6
+Rudy Gobert'21-'22,Jazz,C,"2,317",0.1,6.8,6.9,11.4
+Jrue Holiday'21-'22,Bucks,"PG, SG","2,670",3.6,1.2,4.8,10.3
+Al Horford'21-'22,Celtics,"PF, C","2,820",0.6,3.7,4.3,10.2
+Fred VanVleet'21-'22,Raptors,SG,"2,602",3.4,1.1,4.5,9.6
+Devin Booker'21-'22,Suns,SG,"2,711",4.1,0,4.1,9.5
+Mikal Bridges'21-'22,Suns,"SG, SF, PF","3,354",1.8,0.9,2.7,9.4
+Trae Young'21-'22,Hawks,PG,"2,838",6.7,-3,3.7,9.4
+Desmond Bane'21-'22,Grizzlies,"SG, SF","2,694",3.1,0.9,4,9.3
+Darius Garland'21-'22,Cavaliers,PG,"2,430",4.8,-0.3,4.5,9
+Chris Paul'21-'22,Suns,PG,"2,587",4.4,-0.3,4,9
+Jaylen Brown'21-'22,Celtics,"SG, SF","3,140",1.7,1,2.7,8.9
+Marcus Smart'21-'22,Celtics,SG,"3,056",1.2,1.6,2.8,8.8
+Derrick White'21-'22,Celtics,"PG, SG","2,784",0.4,3.1,3.5,8.8
+Bam Adebayo'21-'22,Heat,C,"2,439",0,3.8,3.9,8.3
+Kevin Durant'21-'22,Nets,PF,"2,223",4.4,0.1,4.5,8.3
+LeBron James'21-'22,Lakers,"PG, SF, PF","2,084",4.6,0.1,4.7,8
+Jalen Brunson'21-'22,Mavericks,PG,"3,153",2.7,-0.5,2.1,7.8
+Andrew Wiggins'21-'22,Warriors,"SF, PF","3,096",0.2,1.9,2.1,7.8
+Ja Morant'21-'22,Grizzlies,PG,"2,227",5,-1,3.9,7.7
+Dorian Finney-Smith'21-'22,Mavericks,"SF, PF","3,332",1,0.6,1.5,7.3
+James Harden'21-'22,76ers,"PG, SG","2,898",3.5,-1.5,2.1,7.2
+Terry Rozier'21-'22,Hornets,"PG, SG","2,458",2.7,0.2,3,7.2
+Robert Williams III'21-'22,Celtics,C,"2,198",0.6,3,3.7,7.2
+Draymond Green'21-'22,Warriors,PF,"2,032",-1,4.8,3.8,7
+Dejounte Murray'21-'22,Spurs,PG,"2,366",3.1,0,3,7
+Domantas Sabonis'21-'22,Kings,"PF, C","2,136",1.4,2.3,3.7,7
+Kyle Lowry'21-'22,Heat,PG,"2,428",1.6,1.2,2.8,6.9
+Jakob Poeltl'21-'22,Spurs,C,"1,970",1.6,2.4,4,6.8
+Karl-Anthony Towns'21-'22,Timberwolves,C,"2,698",3.3,-1.2,2.1,6.8
+Mike Conley'21-'22,Jazz,PG,"2,232",2.1,1.2,3.2,6.7
+Jarrett Allen'21-'22,Cavaliers,C,"1,809",0.2,4.1,4.3,6.5
+Gary Payton II'21-'22,Warriors,SG,"1,450",1.4,4.6,6,6.5
+Miles Bridges'21-'22,Hornets,"SF, PF","2,837",1.7,0,1.7,6.4
+CJ McCollum'21-'22,Pelicans,SG,"2,379",3.1,-0.6,2.5,6.4
+Pascal Siakam'21-'22,Raptors,PF,"2,838",1.9,-0.2,1.7,6.4
+Anthony Edwards'21-'22,Timberwolves,SF,"2,693",1.8,0,1.8,6.3
+Alec Burks'21-'22,Knicks,"SG, SF","2,318",1.1,1.4,2.5,6.2
+DeMar DeRozan'21-'22,Bulls,"SG, SF, PF","2,946",3.6,-2.3,1.4,6.2
+Jaren Jackson Jr.'21-'22,Grizzlies,"PF, C","2,458",-0.2,2.3,2.1,6.2
+LaMelo Ball'21-'22,Hornets,"PG, SG","2,422",2.7,-0.7,2.1,6.1
+Jordan Clarkson'21-'22,Jazz,"PG, SG","2,311",2.8,-0.4,2.4,6.1
+Tyrese Haliburton'21-'22,Pacers,"PG, SG","2,695",2.8,-1.1,1.7,6.1
+Donovan Mitchell'21-'22,Jazz,"PG, SG","2,495",4.7,-2.7,2,6.1
+Immanuel Quickley'21-'22,Knicks,PG,"1,802",2.4,1.5,3.9,6
+Cameron Johnson'21-'22,Suns,"SF, PF","2,050",1,1.7,2.7,5.8
+Clint Capela'21-'22,Hawks,C,"2,082",0.6,2.1,2.7,5.7
+Kevon Looney'21-'22,Warriors,"PF, C","2,180",-0.1,2.4,2.4,5.7
+Bobby Portis'21-'22,Bucks,"PF, C","2,326",0.4,1.6,2,5.7
+P.J. Tucker'21-'22,Heat,"SF, PF, C","2,490",-0.6,2.3,1.7,5.7
+Herbert Jones'21-'22,Pelicans,"SF, PF","2,561",-1.2,2.6,1.5,5.5
+Royce O'Neale'21-'22,Jazz,"SG, SF","2,594",0.2,1.2,1.4,5.5
+Jordan Poole'21-'22,Warriors,"PG, SG","2,889",2,-1.1,0.9,5.5
+Max Strus'21-'22,Heat,"SG, SF","2,110",2,0.3,2.3,5.5
+Patrick Beverley'21-'22,Timberwolves,"PG, SG, SF","1,670",1.7,1.9,3.6,5.4
+Steven Adams'21-'22,Grizzlies,C,"2,113",1.7,0.5,2.1,5.3
+Spencer Dinwiddie'21-'22,Mavericks,"PG, SG","2,481",1.9,-0.5,1.4,5.3
+Mitchell Robinson'21-'22,Knicks,C,"1,848",0.5,2.4,2.9,5.3
+Jonas Valanciunas'21-'22,Pelicans,C,"2,415",1,0.5,1.6,5.3
+Alex Caruso'21-'22,Bulls,"PG, SG","1,260",0.4,5,5.3,5.2
+Garrison Mathews'21-'22,Rockets,"SG, SF","1,712",1.1,1.9,3,5.1
+Scottie Barnes'21-'22,Raptors,SF,"2,750",0.1,0.7,0.8,5
+Bogdan Bogdanovic'21-'22,Hawks,"SG, SF","1,955",2.8,-0.6,2.2,5
+D'Angelo Russell'21-'22,Timberwolves,"PG, SG","2,273",2.3,-0.8,1.6,5
+Franz Wagner'21-'22,Magic,SF,"2,429",0.5,0.8,1.3,5
+Jusuf Nurkic'21-'22,Trail Blazers,C,"1,579",-0.2,3.4,3.2,4.8
+Otto Porter Jr.'21-'22,Warriors,"SF, PF","1,767",0.8,1.8,2.5,4.8
+Jarred Vanderbilt'21-'22,Timberwolves,"SF, PF","2,009",0.1,1.7,1.9,4.7
+Brandon Clarke'21-'22,Grizzlies,"PF, C","1,542",1.3,1.7,3,4.6
+Robert Covington'21-'22,Clippers,"SF, PF","1,940",-0.7,2.6,1.9,4.6
+Shai Gilgeous-Alexander'21-'22,Thunder,"PG, SG, SF","1,942",2.8,-0.9,1.9,4.6
+De'Anthony Melton'21-'22,Grizzlies,"PG, SG","1,827",0.2,1.9,2.1,4.6
+Khris Middleton'21-'22,Bucks,SF,"2,213",1.9,-0.7,1.3,4.6
+Jae Crowder'21-'22,Suns,"SF, PF","2,269",-0.4,1.6,1.2,4.5
+Montrezl Harrell'21-'22,Hornets,C,"1,641",2.1,0.5,2.6,4.5
+Kyrie Irving'21-'22,Nets,PG,"1,261",5,-0.9,4.2,4.5
+Keldon Johnson'21-'22,Spurs,SF,"2,392",1.3,-0.4,0.9,4.5
+Paul George'21-'22,Clippers,"SG, SF","1,077",1.1,4,5.1,4.4
+Kevin Love'21-'22,Cavaliers,"PF, C","1,665",1.9,0.3,2.3,4.3
+Gary Trent Jr.'21-'22,Raptors,"SG, SF","2,647",1.4,-1,0.4,4.3
+Matisse Thybulle'21-'22,76ers,"SG, SF","1,822",-2.2,4,1.8,4.2
+Delon Wright'21-'22,Hawks,PG,"1,589",-0.3,2.5,2.3,4.1
+Deandre Ayton'21-'22,Suns,C,"2,110",-0.2,1.1,0.9,4
+Aaron Gordon'21-'22,Nuggets,PF,"2,536",0.6,-0.2,0.4,4
+Tyrese Maxey'21-'22,76ers,"PG, SG","3,135",1.3,-1.5,-0.2,4
+Deni Avdija'21-'22,Wizards,SF,"1,984",-0.9,2,1.1,3.9
+Brandon Ingram'21-'22,Pelicans,"SG, SF","2,105",2,-1.2,0.8,3.9
+Caleb Martin'21-'22,Heat,SF,"1,581",-0.5,2.5,2.1,3.9
+Dillon Brooks'21-'22,Grizzlies,"SG, SF","1,220",0.1,3.1,3.3,3.8
+Buddy Hield'21-'22,Pacers,"SG, SF","2,499",1.3,-1.1,0.2,3.8
+Terance Mann'21-'22,Clippers,"SG, SF","2,317",-0.1,0.6,0.5,3.8
+Cody Martin'21-'22,Hornets,"SG, SF","1,866",0.3,0.9,1.3,3.8
+Gabe Vincent'21-'22,Heat,PG,"2,012",-0.4,1.3,0.9,3.8
+Hassan Whiteside'21-'22,Jazz,C,"1,227",1,2.3,3.3,3.8
+Jose Alvarado'21-'22,Pelicans,PG,951,0.5,4.3,4.9,3.7
+Pat Connaughton'21-'22,Bucks,"SG, SF","2,009",0.6,0.2,0.8,3.7
+Anthony Davis'21-'22,Lakers,PF,"1,404",-0.3,2.8,2.5,3.7
+Javonte Green'21-'22,Bulls,"SG, SF","1,591",0.1,1.7,1.8,3.7
+John Collins'21-'22,Hawks,"PF, C","1,785",0.5,0.7,1.2,3.6
+Andre Drummond'21-'22,Nets,C,"1,497",-0.4,2.4,1.9,3.6
+Tobias Harris'21-'22,76ers,"SF, PF","3,009",0.7,-1.1,-0.4,3.6
+Tyler Herro'21-'22,Heat,"PG, SG","2,532",1.3,-1.3,0.1,3.6
+Zach LaVine'21-'22,Bulls,"PG, SG","2,481",2.4,-2.3,0.1,3.6
+Malik Monk'21-'22,Lakers,SG,"2,139",1.8,-1.2,0.6,3.6
+Lonzo Ball'21-'22,Bulls,PG,"1,212",0,2.9,2.9,3.5
+Chris Boucher'21-'22,Raptors,"PF, C","1,820",0.1,0.9,1,3.5
+Wendell Carter Jr.'21-'22,Magic,C,"1,852",-0.5,1.4,0.9,3.5
+Seth Curry'21-'22,Nets,"PG, SG","2,267",1.3,-1.1,0.3,3.5
+Luke Kennard'21-'22,Clippers,SG,"1,919",1.5,-0.7,0.9,3.5
+Kristaps Porzingis'21-'22,Wizards,"PF, C","1,481",1.3,0.6,1.9,3.5
+Isaiah Hartenstein'21-'22,Clippers,C,"1,216",1.2,1.5,2.7,3.4
+Lauri Markkanen'21-'22,Cavaliers,"PF, C","1,878",1.6,-0.9,0.8,3.4
+Ricky Rubio'21-'22,Pacers,PG,970,0.5,3.6,4,3.4
+Bradley Beal'21-'22,Wizards,"SG, SF","1,439",1.1,0.6,1.7,3.3
+Bruce Brown'21-'22,Nets,"PG, SG, SF","1,913",0.3,0.3,0.7,3.3
+Danny Green'21-'22,76ers,"SG, SF","1,672",-0.2,1.3,1.1,3.3
+Tyus Jones'21-'22,Grizzlies,PG,"1,811",1.4,-0.5,0.9,3.3
+Nikola Vucevic'21-'22,Bulls,C,"2,599",-1.8,1.6,-0.3,3.3
+Reggie Bullock'21-'22,Mavericks,"SG, SF","2,609",-0.2,-0.1,-0.4,3.2
+Josh Hart'21-'22,Trail Blazers,SF,"1,791",0.9,-0.1,0.8,3.2
+Austin Reaves'21-'22,Lakers,SG,"1,418",0,1.7,1.7,3.2
+Grayson Allen'21-'22,Bucks,SG,"2,110",0.2,-0.1,0.1,3.1
+Wesley Matthews'21-'22,Bucks,"SG, SF","1,347",-1.3,3,1.7,3.1
+JaVale McGee'21-'22,Suns,C,"1,305",0,1.8,1.8,3.1
+Dwight Powell'21-'22,Mavericks,"PF, C","2,047",0.2,0.1,0.3,3.1
+Harrison Barnes'21-'22,Kings,"SF, PF","2,587",1.2,-1.7,-0.5,3
+Blake Griffin'21-'22,Nets,"PF, C",983,-1.2,4,2.9,2.9
+Tre Jones'21-'22,Spurs,PG,"1,148",0.3,1.9,2.2,2.9
+Damian Lillard'21-'22,Trail Blazers,PG,"1,056",4.2,-1.6,2.5,2.9
+Payton Pritchard'21-'22,Celtics,"PG, SG","1,310",2,-0.3,1.6,2.9
+Kenrich Williams'21-'22,Thunder,SF,"1,072",-1.2,3.8,2.6,2.9
+Maxi Kleber'21-'22,Mavericks,PF,"1,907",-2,2.1,0.1,2.8
+Onyeka Okongwu'21-'22,Hawks,"PF, C","1,100",0,2.2,2.2,2.8
+Kevin Porter Jr.'21-'22,Rockets,SG,"1,907",0.2,-0.1,0.1,2.8
+OG Anunoby'21-'22,Raptors,SF,"1,945",0.2,-0.2,0,2.7
+Malcolm Brogdon'21-'22,Pacers,PG,"1,206",2.4,-0.7,1.7,2.7
+Kevin Huerter'21-'22,Hawks,SG,"2,342",0.4,-0.9,-0.5,2.7
+Derrick Rose'21-'22,Knicks,"PG, SG",636,2.1,3.4,5.5,2.7
+Grant Williams'21-'22,Celtics,PF,"2,529",-1,0.4,-0.6,2.7
+Monte Morris'21-'22,Nuggets,PG,"2,395",1.5,-2,-0.5,2.6
+Mike Muscala'21-'22,Thunder,"PF, C",592,2.4,3.3,5.7,2.6
+Myles Turner'21-'22,Pacers,C,"1,235",-1.2,2.5,1.3,2.6
+Ivica Zubac'21-'22,Clippers,C,"1,852",-0.7,0.7,0,2.6
+Bones Hyland'21-'22,Nuggets,PG,"1,397",2.3,-1.6,0.8,2.5
+Duncan Robinson'21-'22,Heat,"SG, SF","2,202",0.6,-1.1,-0.5,2.5
+Devonte' Graham'21-'22,Pelicans,PG,"2,222",0.9,-1.6,-0.6,2.4
+George Hill'21-'22,Bucks,PG,"1,329",-1.1,1.9,0.8,2.4
+John Konchar'21-'22,Grizzlies,SG,"1,348",0.3,0.6,0.8,2.4
+Jaden McDaniels'21-'22,Timberwolves,PF,"1,933",-2.3,1.9,-0.3,2.4
+Precious Achiuwa'21-'22,Raptors,PF,"1,892",-2.5,2.1,-0.4,2.3
+LaMarcus Aldridge'21-'22,Nets,C,"1,050",-0.2,1.8,1.6,2.3
+Chris Duarte'21-'22,Pacers,SG,"1,541",-0.8,1,0.2,2.3
+Andre Iguodala'21-'22,Warriors,"SG, SF",664,-0.4,4.4,4,2.3
+Jae'Sean Tate'21-'22,Rockets,"SF, PF","2,056",-1.3,0.8,-0.5,2.3
+Nicolas Batum'21-'22,Clippers,"SG, SF, PF","1,462",-1.6,1.7,0.1,2.2
+Nemanja Bjelica'21-'22,Warriors,"PF, C","1,292",-1.2,1.7,0.6,2.2
+DeMarcus Cousins'21-'22,Nuggets,C,775,0.7,2,2.8,2.2
+Luguentz Dort'21-'22,Thunder,"SG, SF","1,665",-1.4,1.2,-0.2,2.2
+De'Aaron Fox'21-'22,Kings,PG,"2,083",1.9,-2.6,-0.7,2.2
+Nassir Little'21-'22,Trail Blazers,"SF, PF","1,088",0,1.3,1.3,2.2
+Hamidou Diallo'21-'22,Pistons,"SG, SF","1,269",-0.9,1.3,0.4,2.1
+Reggie Jackson'21-'22,Clippers,"PG, SG","2,337",-0.9,-0.1,-1,2.1
+Cameron Payne'21-'22,Suns,PG,"1,450",-0.6,0.7,0.1,2.1
+Anfernee Simons'21-'22,Trail Blazers,"PG, SG","1,681",2.2,-2.5,-0.3,2.1
+Kentavious Caldwell-Pope'21-'22,Wizards,"SG, SF","2,329",-1,-0.1,-1.1,2
+Evan Fournier'21-'22,Knicks,"SG, SF","2,358",0.8,-1.8,-1.1,2
+Tim Hardaway Jr.'21-'22,Mavericks,"SG, SF","1,245",-0.1,0.5,0.4,2
+Kelly Oubre Jr.'21-'22,Hornets,SF,"1,999",0.3,-1.1,-0.8,2
+Kyle Anderson'21-'22,Grizzlies,"SF, PF","1,705",-1.3,0.7,-0.6,1.9
+Evan Mobley'21-'22,Cavaliers,C,"2,331",-2.7,1.6,-1.1,1.9
+Isaac Okoro'21-'22,Cavaliers,"SG, SF","1,981",-1.1,0.3,-0.8,1.9
+Devin Vassell'21-'22,Spurs,"SG, SF","1,937",-0.2,-0.6,-0.8,1.9
+Eric Bledsoe'21-'22,Trail Blazers,"PG, SG","1,361",-2.2,2,-0.2,1.8
+Daniel Gafford'21-'22,Wizards,C,"1,444",0.4,-0.7,-0.3,1.8
+Rudy Gay'21-'22,Jazz,PF,"1,038",-0.1,0.8,0.6,1.8
+Cory Joseph'21-'22,Pistons,PG,"1,600",-0.4,-0.1,-0.5,1.8
+Frank Ntilikina'21-'22,Mavericks,"PG, SG",810,-2.1,3.6,1.5,1.8
+Kelly Olynyk'21-'22,Pistons,"PF, C",764,0.6,1.3,1.9,1.8
+Klay Thompson'21-'22,Warriors,"SG, SF","1,733",1,-1.8,-0.8,1.8
+Nic Claxton'21-'22,Nets,C,"1,072",-1.4,1.6,0.3,1.7
+Amir Coffey'21-'22,Clippers,"PG, SG, SF","1,567",0.3,-0.9,-0.6,1.7
+Caris LeVert'21-'22,Cavaliers,"SG, SF","1,781",1,-1.8,-0.9,1.7
+Dean Wade'21-'22,Cavaliers,PF,980,-1.2,1.9,0.7,1.7
+Jordan McLaughlin'21-'22,Timberwolves,PG,985,0.6,-0.3,0.3,1.6
+Davion Mitchell'21-'22,Kings,PG,"2,076",-1.6,0.4,-1.2,1.6
+Georges Niang'21-'22,76ers,PF,"1,934",0.3,-1.4,-1.2,1.6
+RJ Barrett'21-'22,Knicks,"SG, SF","2,417",-0.7,-0.9,-1.6,1.5
+DeAndre' Bembry'21-'22,Bucks,SF,"1,026",-0.8,0.9,0.1,1.5
+Danilo Gallinari'21-'22,Hawks,"SF, PF","1,784",1.2,-2.2,-1.1,1.5
+Terence Davis'21-'22,Kings,"PG, SG",536,2,0.3,2.2,1.4
+Josh Green'21-'22,Mavericks,"SG, SF","1,160",-2.2,1.9,-0.3,1.4
+Aaron Holiday'21-'22,Suns,"PG, SG","1,041",-0.2,0.1,-0.1,1.4
+Patty Mills'21-'22,Nets,"PG, SG","2,418",0.2,-1.8,-1.6,1.4
+Larry Nance Jr.'21-'22,Pelicans,"PF, C","1,170",-0.1,-0.4,-0.4,1.4
+Mason Plumlee'21-'22,Hornets,C,"1,793",-2.2,0.9,-1.3,1.4
+Thaddeus Young'21-'22,Raptors,PF,932,-0.5,0.7,0.2,1.4
+Malik Beasley'21-'22,Timberwolves,"SG, SF","2,095",0.5,-2,-1.6,1.3
+Jeremy Lamb'21-'22,Kings,"SG, SF",935,0.7,-0.8,-0.1,1.3
+Josh Okogie'21-'22,Timberwolves,"SG, SF",518,-4,6.1,2.1,1.3
+Landry Shamet'21-'22,Suns,"SG, SF","1,629",-1,-0.2,-1.1,1.3
+Xavier Tillman'21-'22,Grizzlies,PF,840,-2.8,3,0.2,1.3
+P.J. Washington'21-'22,Hornets,"PF, C","1,768",0.1,-1.4,-1.3,1.3
+Justise Winslow'21-'22,Trail Blazers,"PG, SG, SF",774,-1.2,1.8,0.6,1.3
+Cade Cunningham'21-'22,Pistons,PG,"2,088",-1.2,-0.4,-1.7,1.2
+Josh Giddey'21-'22,Thunder,SG,"1,700",-1.9,0.5,-1.4,1.2
+Jerami Grant'21-'22,Pistons,"SF, PF","1,500",-0.5,-0.7,-1.2,1.2
+Stanley Johnson'21-'22,Lakers,"SF, PF","1,094",-0.7,0.2,-0.5,1.2
+Derrick Jones Jr.'21-'22,Bulls,"SF, PF",958,-0.5,0.2,-0.3,1.2
+Brook Lopez'21-'22,Bucks,C,630,-3.1,4.1,1,1.2
+Trey Murphy III'21-'22,Pelicans,SG,984,0.2,-0.6,-0.5,1.2
+Jaylen Nowell'21-'22,Timberwolves,SG,987,2.7,-3,-0.3,1.2
+Obi Toppin'21-'22,Knicks,PF,"1,230",-0.5,-0.3,-0.8,1.2
+Kemba Walker'21-'22,Knicks,PG,948,-0.3,0.1,-0.2,1.2
+Mo Bamba'21-'22,Magic,C,"1,824",-2.1,0.6,-1.5,1.1
+Tony Bradley'21-'22,Bulls,"PF, C",557,-2.4,3.6,1.2,1.1
+Quentin Grimes'21-'22,Knicks,SG,786,-1.4,1.4,0,1.1
+Gary Harris'21-'22,Magic,SG,"1,730",-1.1,-0.3,-1.5,1.1
+T.J. McConnell'21-'22,Pacers,PG,652,-0.4,0.9,0.5,1.1
+Jalen McDaniels'21-'22,Hornets,"SF, PF",895,-1,0.6,-0.4,1.1
+Raul Neto'21-'22,Wizards,PG,"1,372",-0.4,-0.7,-1.2,1.1
+Taurean Prince'21-'22,Timberwolves,"SF, PF","1,242",-1,-0.1,-1,1.1
+Josh Richardson'21-'22,Spurs,"SG, SF","1,600",-0.4,-1.1,-1.4,1.1
+Carmelo Anthony'21-'22,Lakers,"SF, PF","1,793",0.1,-1.8,-1.7,1
+Marvin Bagley III'21-'22,Pistons,"PF, C","1,146",-0.9,-0.2,-1,1
+Will Barton'21-'22,Nuggets,"SG, SF","2,449",-0.5,-1.4,-1.9,1
+Facundo Campazzo'21-'22,Nuggets,PG,"1,197",-2.5,1.4,-1,1
+Donte DiVincenzo'21-'22,Kings,SG,"1,006",-2,1.2,-0.8,1
+Willy Hernangomez'21-'22,Pelicans,C,841,1.6,-2.1,-0.5,1
+David Nwaba'21-'22,Rockets,"SG, SF",609,0.5,0,0.4,1
+Norman Powell'21-'22,Clippers,"SG, SF","1,458",1.3,-2.7,-1.4,1
+Jalen Suggs'21-'22,Magic,"PG, SG","1,307",-4.2,2.8,-1.3,1
+Lindy Waters III'21-'22,Thunder,SG,465,0.7,0.7,1.4,1
+Trent Forrest'21-'22,Jazz,"PG, SG",765,-1,0.5,-0.4,0.9
+Enes Freedom'21-'22,Celtics,C,411,-0.9,2.4,1.5,0.9
+Markelle Fultz'21-'22,Magic,"PG, SG",360,0.5,1.6,2.2,0.9
+Taj Gibson'21-'22,Knicks,"PF, C",946,-1.7,0.8,-0.9,0.9
+Ty Jerome'21-'22,Thunder,SG,801,-0.9,0.5,-0.5,0.9
+Frank Kaminsky'21-'22,Suns,C,181,-2.3,9,6.7,0.9
+Davon Reed'21-'22,Nuggets,SG,668,-0.3,0.1,-0.2,0.9
+Paul Reed'21-'22,76ers,PF,442,0.7,0.5,1.2,0.9
+Day'Ron Sharpe'21-'22,Nets,C,391,1,1,2,0.9
+Juan Toscano-Anderson'21-'22,Warriors,"SF, PF","1,043",-2,0.9,-1,0.9
+Kent Bazemore'21-'22,Lakers,"SG, SF",545,-3.7,3.7,0.1,0.8
+Davis Bertans'21-'22,Mavericks,"SF, PF",999,-0.5,-0.9,-1.3,0.8
+Malachi Flynn'21-'22,Raptors,PG,573,-0.3,0.1,-0.1,0.8
+Joe Ingles'21-'22,Trail Blazers,"SF, PF","1,122",-0.2,-1.1,-1.3,0.8
+Naji Marshall'21-'22,Pelicans,SF,791,-1.4,0.7,-0.7,0.8
+Shake Milton'21-'22,76ers,"PG, SG, SF","1,337",-0.5,-1.1,-1.6,0.8
+Victor Oladipo'21-'22,Heat,SG,541,-1.1,1.3,0.2,0.8
+Jalen Smith'21-'22,Pacers,"PF, C",925,-0.5,-0.5,-1,0.8
+Moritz Wagner'21-'22,Magic,"PF, C",960,0.4,-1.5,-1.1,0.8
+Christian Wood'21-'22,Rockets,"PF, C","2,094",-0.8,-1.2,-2,0.8
+Cole Anthony'21-'22,Magic,PG,"2,059",-0.1,-2,-2.1,0.7
+Bojan Bogdanovic'21-'22,Jazz,"SF, PF","2,345",0.3,-2.4,-2.2,0.7
+Dewayne Dedmon'21-'22,Heat,C,"1,203",-2.3,0.7,-1.7,0.7
+Danuel House Jr.'21-'22,Jazz,"SF, PF",839,-2,0.7,-1.3,0.7
+Isaiah Joe'21-'22,76ers,"PG, SG",624,-1.2,0.7,-0.5,0.7
+Corey Kispert'21-'22,Wizards,SF,"1,801",0.1,-2.1,-2,0.7
+Rodney McGruder'21-'22,Pistons,"PG, SG",754,-0.1,-0.7,-0.8,0.7
+Cedi Osman'21-'22,Cavaliers,SF,"1,462",-0.6,-1.2,-1.8,0.7
+Ziaire Williams'21-'22,Grizzlies,SG,"1,514",-1,-0.9,-1.9,0.7
+Keita Bates-Diop'21-'22,Spurs,"SF, PF",956,-2.6,1,-1.5,0.6
+Saddiq Bey'21-'22,Pistons,"SF, PF","2,704",0.1,-2.4,-2.3,0.6
+Troy Brown Jr.'21-'22,Bulls,"SG, SF","1,092",-1.7,0.1,-1.6,0.6
+Goran Dragic'21-'22,Nets,"PG, SG",577,-0.3,-0.4,-0.6,0.6
+Anthony Gill'21-'22,Wizards,PF,463,0.5,-0.6,-0.1,0.6
+Gordon Hayward'21-'22,Hornets,SF,"1,564",-0.8,-1.2,-2,0.6
+Juancho Hernangomez'21-'22,Jazz,PF,501,-0.7,0,-0.7,0.6
+Isaiah Jackson'21-'22,Pacers,PF,541,-1.3,0.6,-0.7,0.6
+Braxton Key'21-'22,Pistons,SF,197,-2.8,5.6,2.8,0.6
+Trey Lyles'21-'22,Kings,PF,"1,537",-0.5,-1.5,-2,0.6
+Coby White'21-'22,Bulls,"PG, SG","1,773",0.3,-2.3,-2.1,0.6
+Omer Yurtseven'21-'22,Heat,C,744,-2,0.9,-1.2,0.6
+Devontae Cacok'21-'22,Spurs,PF,121,1.6,4,5.6,0.5
+Torrey Craig'21-'22,Suns,SF,"1,665",-2.2,0,-2.2,0.5
+P.J. Dozier'21-'22,Nuggets,SG,340,-2.6,2.6,-0.1,0.5
+Sam Hauser'21-'22,Celtics,SF,173,2.8,0.5,3.3,0.5
+Dwight Howard'21-'22,Lakers,C,971,-0.2,-1.5,-1.7,0.5
+De'Andre Hunter'21-'22,Hawks,SF,"1,752",-1.9,-0.2,-2.1,0.5
+Nathan Knight'21-'22,Timberwolves,PF,267,-0.6,1.7,1.1,0.5
+Furkan Korkmaz'21-'22,76ers,"SG, SF","1,475",-0.9,-1.1,-2,0.5
+Romeo Langford'21-'22,Spurs,"SG, SF",771,-2.3,0.8,-1.6,0.5
+Miles McBride'21-'22,Knicks,PG,372,-1.4,1.5,0.1,0.5
+Michael Porter Jr.'21-'22,Nuggets,"SF, PF",265,-4.4,5.6,1.2,0.5
+Naz Reid'21-'22,Timberwolves,C,"1,269",-2.7,0.7,-2,0.5
+Jericho Sims'21-'22,Knicks,PF,555,-2.7,1.8,-0.9,0.5
+Matt Thomas'21-'22,Bulls,SG,459,-1,0.4,-0.7,0.5
+Tristan Thompson'21-'22,Bulls,"PF, C",935,-1.1,-0.6,-1.7,0.5
+Ish Wainright'21-'22,Suns,"SF, PF",385,-1.8,1.3,-0.4,0.5
+Dylan Windler'21-'22,Cavaliers,"SG, SF",459,-1.9,1.4,-0.5,0.5
+Khem Birch'21-'22,Raptors,"PF, C","1,054",-1.6,-0.3,-2,0.4
+Justin Champagnie'21-'22,Raptors,SF,281,1.1,-0.8,0.3,0.4
+Gary Clark'21-'22,Pelicans,"SF, PF",378,-0.4,-0.5,-0.9,0.4
+Gorgui Dieng'21-'22,Hawks,"PF, C",381,-1.7,1,-0.7,0.4
+Jared Harper'21-'22,Pelicans,PG,43,19.6,-4.4,15.2,0.4
+Luke Kornet'21-'22,Celtics,"PF, C",122,2.8,1.5,4.4,0.4
+Kyle Kuzma'21-'22,Wizards,"SF, PF","2,204",-1.8,-0.6,-2.4,0.4
+Aaron Nesmith'21-'22,Celtics,SF,626,-2.4,0.8,-1.5,0.4
+Isaiah Stewart'21-'22,Pistons,C,"1,816",-3.1,0.8,-2.3,0.4
+Sterling Brown'21-'22,Mavericks,"SG, SF",654,-3.3,1.5,-1.9,0.3
+Kris Dunn'21-'22,Trail Blazers,PG,336,-1.4,0.1,-1.2,0.3
+Derrick Favors'21-'22,Thunder,"PF, C",653,-3.7,1.9,-1.7,0.3
+Solomon Hill'21-'22,Hawks,PF,139,-2.6,4.1,1.5,0.3
+Talen Horton-Tucker'21-'22,Lakers,SF,"1,511",-2.4,0,-2.4,0.3
+Markus Howard'21-'22,Nuggets,"PG, SG",176,3.5,-2.6,0.9,0.3
+Damion Lee'21-'22,Warriors,"SG, SF","1,380",-2.4,0.1,-2.3,0.3
+Saben Lee'21-'22,Pistons,PG,604,-1.9,0.1,-1.8,0.3
+Paul Millsap'21-'22,76ers,PF,382,-2.2,1.2,-1,0.3
+Greg Monroe'21-'22,Timberwolves,C,202,-0.7,1.2,0.5,0.3
+Isaiah Roby'21-'22,Thunder,PF,948,-0.9,-1.3,-2.2,0.3
+Alperen Sengun'21-'22,Rockets,C,"1,489",-1,-1.3,-2.3,0.3
+Terry Taylor'21-'22,Pacers,"SG, SF",714,1.2,-3.1,-1.9,0.3
+Ryan Arcidiacono'21-'22,Knicks,PG,76,-4.2,5.8,1.5,0.2
+Charles Bassey'21-'22,76ers,C,180,-2.4,1.5,-0.9,0.2
+Goga Bitadze'21-'22,Pacers,C,729,0.5,-2.6,-2.2,0.2
+Bismack Biyombo'21-'22,Suns,C,592,-2,0,-2,0.2
+Charlie Brown Jr.'21-'22,76ers,"PG, SG",177,-4.4,4,-0.4,0.2
+Jared Butler'21-'22,Jazz,PG,365,-1.9,0.1,-1.8,0.2
+Sekou Doumbouya'21-'22,Lakers,PF,16,3.8,22.7,26.5,0.2
+Wayne Ellington'21-'22,Lakers,"SG, SF",810,-1.3,-0.9,-2.2,0.2
+Brandon Goodwin'21-'22,Cavaliers,PG,502,-1.6,-0.1,-1.8,0.2
+Hassani Gravett'21-'22,Magic,PG,171,-0.4,-0.1,-0.5,0.2
+JaMychal Green'21-'22,Nuggets,PF,"1,154",-2.2,-0.3,-2.5,0.2
+Jaxson Hayes'21-'22,Pelicans,C,"1,481",-1.2,-1.3,-2.5,0.2
+Malcolm Hill'21-'22,Bulls,SF,212,-0.1,-1,-1.1,0.2
+James Johnson'21-'22,Nets,PF,"1,191",-1.8,-0.7,-2.5,0.2
+Jock Landale'21-'22,Spurs,C,589,-0.6,-1.5,-2.1,0.2
+Isaiah Livers'21-'22,Pistons,PF,383,-0.6,-1.2,-1.8,0.2
+Xavier Moon'21-'22,Clippers,SG,137,0.8,-0.8,0,0.2
+Chuma Okeke'21-'22,Magic,PF,"1,749",-3.6,1.1,-2.5,0.2
+Trevelin Queen'21-'22,Rockets,SG,74,2.7,-1.4,1.2,0.2
+Rajon Rondo'21-'22,Cavaliers,PG,697,-3.3,1,-2.3,0.2
+Dennis Smith Jr.'21-'22,Trail Blazers,PG,638,-2.5,0.3,-2.1,0.2
+Derrick Walton Jr.'21-'22,Pistons,PG,108,-6.2,7.7,1.6,0.2
+Udoka Azubuike'21-'22,Jazz,C,195,-4.8,3.5,-1.3,0.1
+Dalano Banton'21-'22,Raptors,PG,704,-2.7,0.2,-2.5,0.1
+Jevon Carter'21-'22,Bucks,"PG, SG","1,031",-1.6,-0.9,-2.5,0.1
+Devon Dotson'21-'22,Bulls,PG,85,0.3,-1.5,-1.2,0.1
+Tacko Fall'21-'22,Cavaliers,C,59,-3.5,4.2,0.7,0.1
+Bruno Fernando'21-'22,Rockets,C,152,-2.9,1.8,-1.2,0.1
+Wenyen Gabriel'21-'22,Lakers,PF,358,1,-2.9,-2,0.1
+Usman Garuba'21-'22,Rockets,PF,239,-1.2,-0.9,-2.1,0.1
+Eric Gordon'21-'22,Rockets,"SG, SF","1,669",0,-2.7,-2.6,0.1
+Jay Huff'21-'22,Lakers,C,20,-13.2,23.6,10.4,0.1
+BJ Johnson'21-'22,Magic,SF,65,-0.5,-0.5,-1.1,0.1
+Damian Jones'21-'22,Kings,C,"1,017",-1,-1.5,-2.5,0.1
+Gabriel Lundberg'21-'22,Suns,SG,44,0.7,1.2,1.8,0.1
+Cameron McGriff'21-'22,Trail Blazers,SF,46,6.2,-3.9,2.3,0.1
+Abdel Nader'21-'22,Suns,SF,145,-7.6,5.7,-1.8,0.1
+Malik Newman'21-'22,Cavaliers,PG,8,5.3,5.4,10.7,0.1
+Zeke Nnaji'21-'22,Nuggets,PF,707,-0.8,-1.5,-2.3,0.1
+Theo Pinson'21-'22,Mavericks,"SG, SF",148,-2.6,0.9,-1.7,0.1
+Marko Simonovic'21-'22,Bulls,C,35,-4.9,6.5,1.6,0.1
+Lamar Stevens'21-'22,Cavaliers,PF,"1,015",-2.6,0,-2.6,0.1
+Craig Sword'21-'22,Wizards,SG,19,-0.1,8.5,8.4,0.1
+Daniel Theis'21-'22,Celtics,C,"1,177",-3.4,0.7,-2.7,0.1
+Isaiah Thomas'21-'22,Hornets,PG,333,-0.4,-1.7,-2,0.1
+Killian Tillie'21-'22,Grizzlies,"PF, C",461,-3.3,0.8,-2.5,0.1
+Rayjon Tucker'21-'22,Bucks,SG,90,1.3,-2.8,-1.5,0.1
+Denzel Valentine'21-'22,Jazz,SG,222,-2.6,0.9,-1.7,0.1
+Lou Williams'21-'22,Hawks,"PG, SG",799,-1.3,-1.1,-2.4,0.1
+D.J. Wilson'21-'22,Raptors,PF,54,1.4,-0.8,0.7,0.1
+Gabe York'21-'22,Pacers,SG,21,0.8,2.3,3.1,0.1
+Joel Ayayi'21-'22,Wizards,SG,20,-7.6,4.3,-3.3,0
+Paris Bass'21-'22,Suns,SF,7,3.2,-5.3,-2,0
+Jordan Bell'21-'22,Bulls,C,2,28.7,-34.7,-6,0
+Isaac Bonga'21-'22,Raptors,"PG, SG, SF",72,-4.5,3,-1.5,0
+Armoni Brooks'21-'22,Raptors,"PG, SG",852,-0.8,-2,-2.8,0
+Shaq Buchanan'21-'22,Grizzlies,PG,10,-5.1,-1.7,-6.8,0
+Trey Burke'21-'22,Mavericks,PG,478,-2.2,-0.5,-2.7,0
+Vlatko Cancar'21-'22,Nuggets,SF,185,-3,-0.1,-3.1,0
+Ahmad Caver'21-'22,Pacers,PG,1,6.6,7.7,14.3,0
+Jarron Cumberland'21-'22,Trail Blazers,SG,12,3.7,-9.4,-5.7,0
+Ed Davis'21-'22,Cavaliers,C,201,-4.3,1.3,-3,0
+Javin DeLaurier'21-'22,Bucks,C,3,11.9,2.8,14.8,0
+Sam Dekker'21-'22,Raptors,PF,1,-31.6,-35.8,-67.4,0
+Mamadi Diakite'21-'22,Thunder,PF,188,-4.9,1.9,-3,0
+Damyean Dotson'21-'22,Knicks,SG,21,-0.1,-6.9,-7.1,0
+Jaime Echenique'21-'22,Wizards,C,3,-12.9,10.8,-2.1,0
+Rob Edwards'21-'22,Thunder,SG,11,-8.3,3.9,-4.4,0
+James Ennis III'21-'22,Nuggets,SF,56,-0.2,-2.2,-2.3,0
+Malik Fitts'21-'22,Celtics,"SF, PF",79,-1.8,-1.8,-3.6,0
+Luka Garza'21-'22,Pistons,C,389,-0.4,-2.6,-3,0
+Freddie Gillespie'21-'22,Magic,PF,119,-6.2,2.7,-3.5,0
+Kyle Guy'21-'22,Heat,SG,186,-2.7,-0.4,-3.1,0
+Tyler Hall'21-'22,Knicks,SG,2,-12.5,-12.7,-25.2,0
+Shaquille Harrison'21-'22,Nets,SG,23,-5.6,4.3,-1.3,0
+Nate Hinton'21-'22,Pacers,SG,2,-13.4,9.3,-4.1,0
+Scotty Hopson'21-'22,Thunder,SG,18,-8.2,2.7,-5.5,0
+Feron Hunt'21-'22,Knicks,SF,8,-7.5,6.7,-0.8,0
+Justin Jackson'21-'22,Suns,SF,37,-5.2,1.5,-3.8,0
+DeJon Jarreau'21-'22,Pacers,SG,1,9.3,6.3,15.6,0
+DaQuan Jeffries'21-'22,Grizzlies,SG,9,-1.5,2.1,0.6,0
+David Johnson'21-'22,Raptors,PG,2,-4.6,11.3,6.8,0
+Joe Johnson'21-'22,Celtics,SG,2,5.4,-24.3,-18.9,0
+Tyler Johnson'21-'22,Spurs,PG,91,-3.3,0.3,-3,0
+Mason Jones'21-'22,Lakers,SG,51,1.7,-3.9,-2.1,0
+Louis King'21-'22,Kings,SF,104,-1.4,-0.4,-1.8,0
+Brandon Knight'21-'22,Mavericks,PG,65,-1.5,-0.1,-1.6,0
+Anthony Lamb'21-'22,Rockets,"SF, PF",8,-6.8,4.3,-2.5,0
+Scottie Lewis'21-'22,Hornets,SG,7,2.8,-0.3,2.4,0
+Dakota Mathias'21-'22,Grizzlies,SG,16,-5.4,-3.3,-8.7,0
+JaQuori McLaughlin'21-'22,Mavericks,PG,11,-2.8,-5.7,-8.6,0
+Sam Merrill'21-'22,Grizzlies,SG,58,-2.4,-0.9,-3.3,0
+Matt Mooney'21-'22,Knicks,SG,2,-36.6,11.8,-24.8,0
+Jaylen Morris'21-'22,Spurs,SG,16,-11.1,3.6,-7.5,0
+Emmanuel Mudiay'21-'22,Kings,PG,11,-5.8,2.2,-3.7,0
+Ade Murkey'21-'22,Kings,SG,1,-20.7,-3.6,-24.2,0
+Cameron Oliver'21-'22,Hawks,SF,43,2.4,-5,-2.6,0
+Eugene Omoruyi'21-'22,Mavericks,SF,18,-0.9,-3.6,-4.5,0
+Eric Paschall'21-'22,Jazz,"PF, C",760,0.2,-2.9,-2.7,0
+Neemias Queta'21-'22,Kings,C,120,-2.6,0.4,-2.2,0
+Matt Ryan'21-'22,Celtics,"SF, PF",5,-7.8,2.8,-5,0
+Jordan Schakel'21-'22,Wizards,SG,30,-9.6,8.8,-0.9,0
+Trevon Scott'21-'22,Cavaliers,SF,11,-6,8.1,2.1,0
+Collin Sexton'21-'22,Cavaliers,"PG, SG",316,-2.9,-0.1,-3,0
+Deividas Sirvydis'21-'22,Pistons,SG,27,-11.9,10.7,-1.1,0
+Jaden Springer'21-'22,76ers,PG,19,-1.1,-5.2,-6.3,0
+Cassius Stanley'21-'22,Pistons,SG,155,-2.8,0.3,-2.5,0
+Nik Stauskas'21-'22,Celtics,SG,63,-0.6,-0.9,-1.5,0
+Tyrell Terry'21-'22,Grizzlies,PG,3,7.6,-23.1,-15.5,0
+Brodric Thomas'21-'22,Celtics,SG,60,0.8,-3.5,-2.6,0
+Luca Vildoza'21-'22,Bucks,PG,17,-4.6,3.6,-1,0
+MJ Walker'21-'22,Suns,SG,8,-3.4,11.6,8.2,0
+Duane Washington Jr.'21-'22,Pacers,PG,968,-1,-1.9,-2.8,0
+Quinndary Weatherspoon'21-'22,Warriors,SG,73,0.2,-4.2,-4,0
+Robert Woodard II'21-'22,Spurs,SF,42,-4.9,1.7,-3.2,0
+Moses Wright'21-'22,Mavericks,PF,14,-0.2,-2.8,-3,0
+Cat Barber'21-'22,Hawks,PG,13,-12.2,1.5,-10.7,-0.1
+Bol Bol'21-'22,Magic,"PF, C",81,-5,-0.4,-5.4,-0.1
+Leandro Bolmaro'21-'22,Timberwolves,SG,241,-5.4,1.7,-3.6,-0.1
+Chaundee Brown Jr.'21-'22,Hawks,SG,104,-4.9,-0.2,-5.1,-0.1
+Vernon Carey Jr.'21-'22,Wizards,C,44,-5.7,0,-5.8,-0.1
+Zylan Cheatham'21-'22,Jazz,SF,5,-34.6,-5.8,-40.4,-0.1
+Zach Collins'21-'22,Spurs,"PF, C",502,-3.3,0,-3.3,-0.1
+Petr Cornelie'21-'22,Nuggets,PF,38,-6.6,-0.7,-7.3,-0.1
+Jarrett Culver'21-'22,Grizzlies,"PG, SG, SF",360,-3.3,-0.1,-3.4,-0.1
+Gabriel Deck'21-'22,Thunder,PF,56,-2.5,-3,-5.5,-0.1
+David Duke Jr.'21-'22,Nets,PG,341,-1.6,-1.6,-3.2,-0.1
+Carsen Edwards'21-'22,Pistons,SG,79,-1.9,-3,-4.9,-0.1
+Langston Galloway'21-'22,Bucks,SG,107,-7.7,2.6,-5.1,-0.1
+Jordan Goodwin'21-'22,Wizards,SG,6,-34.9,-6.1,-41,-0.1
+Richaun Holmes'21-'22,Kings,"PF, C","1,074",-1.8,-1.2,-2.9,-0.1
+Josh Jackson'21-'22,Kings,"SG, SF",830,-2.3,-0.7,-3.1,-0.1
+Carlik Jones'21-'22,Nuggets,PG,23,-13,4.7,-8.4,-0.1
+Jemerrio Jones'21-'22,Lakers,SF,15,-0.5,-9.9,-10.5,-0.1
+Arnoldas Kulboka'21-'22,Hornets,SF,5,-12.9,-28.7,-41.6,-0.1
+Jake Layman'21-'22,Timberwolves,SF,231,-3.6,0.1,-3.5,-0.1
+Timothe Luwawu-Cabarrot'21-'22,Hawks,"SG, SF",707,-2.2,-1,-3.1,-0.1
+Boban Marjanovic'21-'22,Mavericks,C,134,-4.2,0.1,-4.1,-0.1
+Kelan Martin'21-'22,Celtics,SF,450,-2.7,-0.4,-3,-0.1
+Mac McClung'21-'22,Lakers,SG,25,-4.8,-4.7,-9.5,-0.1
+CJ Miles'21-'22,Celtics,SG,2,-8.3,-57,-65.3,-0.1
+Markieff Morris'21-'22,Heat,PF,301,-1.4,-1.8,-3.2,-0.1
+RJ Nembhard Jr.'21-'22,Cavaliers,SG,63,-9,3.6,-5.5,-0.1
+Nerlens Noel'21-'22,Knicks,C,562,-3,0,-3,-0.1
+Daniel Oturu'21-'22,Raptors,C,27,-3.6,-5.7,-9.4,-0.1
+Jaysean Paige'21-'22,Pistons,PG,7,-28.8,-6.3,-35.1,-0.1
+Aleksej Pokusevski'21-'22,Thunder,PF,"1,233",-2.9,0,-2.9,-0.1
+Yves Pons'21-'22,Grizzlies,SF,71,-5.8,-1,-6.8,-0.1
+Micah Potter'21-'22,Pistons,C,31,-9.9,-2.1,-12,-0.1
+Austin Rivers'21-'22,Nuggets,"PG, SG","1,588",-1.8,-1.1,-2.9,-0.1
+Dennis Schroder'21-'22,Rockets,"PG, SG","1,837",-2,-0.9,-2.9,-0.1
+Jay Scrubb'21-'22,Clippers,"SG, SF",121,-4.6,0.3,-4.3,-0.1
+Wayne Selden'21-'22,Knicks,SG,19,-7.7,-8.1,-15.8,-0.1
+Javonte Smart'21-'22,Heat,PG,200,-3.8,-0.3,-4.2,-0.1
+Xavier Sneed'21-'22,Jazz,SF,39,-6.7,-2.4,-9.1,-0.1
+Emanuel Terry'21-'22,Suns,PF,18,-16.4,6.7,-9.7,-0.1
+Jon Teske'21-'22,Grizzlies,C,8,-13.2,-5.4,-18.6,-0.1
+Cassius Winston'21-'22,Wizards,PG,39,-2.6,-3.6,-6.2,-0.1
+McKinley Wright IV'21-'22,Timberwolves,PG,19,-1.3,-8.5,-9.8,-0.1
+Cody Zeller'21-'22,Trail Blazers,C,355,-0.2,-3.2,-3.4,-0.1
+Nickeil Alexander-Walker'21-'22,Jazz,SG,"1,471",-1.8,-1.2,-3,-0.2
+Brandon Boston Jr.'21-'22,Clippers,SG,760,-2.5,-0.8,-3.3,-0.2
+Devin Cannady'21-'22,Magic,PG,145,0.7,-5.7,-5.1,-0.2
+Cheick Diallo'21-'22,Pistons,C,31,-8,-5.1,-13.1,-0.2
+Marcus Garrett'21-'22,Heat,SG,128,-2.6,-3.8,-6.5,-0.2
+Maurice Harkless'21-'22,Kings,SF,863,-3.3,0,-3.3,-0.2
+Aaron Henry'21-'22,76ers,SF,17,-15.3,-5,-20.3,-0.2
+Chandler Hutchison'21-'22,Suns,SF,22,-8.6,-7.7,-16.3,-0.2
+Wes Iwundu'21-'22,Hawks,SF,82,-2,-5.5,-7.5,-0.2
+George King'21-'22,Mavericks,SF,19,-14.3,-6.9,-21.2,-0.2
+Kira Lewis Jr.'21-'22,Pelicans,PG,341,-3.6,-0.4,-4.1,-0.2
+Kenyon Martin Jr.'21-'22,Rockets,"SF, PF","1,656",-0.2,-2.8,-3,-0.2
+Skylar Mays'21-'22,Hawks,"PG, SG",229,-1.6,-3,-4.6,-0.2
+Miye Oni'21-'22,Jazz,SG,44,-4.4,-9,-13.4,-0.2
+Jabari Parker'21-'22,Celtics,PF,112,-3,-2.8,-5.8,-0.2
+Myles Powell'21-'22,76ers,SG,52,-6.5,-2.9,-9.4,-0.2
+Chris Silva'21-'22,Heat,PF,91,-3,-3.2,-6.2,-0.2
+JT Thor'21-'22,Hornets,PF,262,-3,-1.4,-4.4,-0.2
+Isaiah Todd'21-'22,Wizards,PF,74,-8.8,-0.1,-9,-0.2
+Tyrone Wallace'21-'22,Pelicans,SG,75,-5.8,-1.8,-7.6,-0.2
+Thanasis Antetokounmpo'21-'22,Bucks,SF,493,-3.1,-0.7,-3.8,-0.3
+Darren Collison'21-'22,Lakers,PG,37,-8,-9.5,-17.5,-0.3
+Tyler Cook'21-'22,Bulls,"PF, C",200,-4.4,-1.1,-5.4,-0.3
+Jeff Dowtin'21-'22,Magic,PG,108,-6.1,-1.8,-8,-0.3
+Aleem Ford'21-'22,Magic,SF,74,-7.3,-2.5,-9.8,-0.3
+Tim Frazier'21-'22,Cavaliers,PG,208,-5.9,0.8,-5.1,-0.3
+Rodney Hood'21-'22,Clippers,"SG, SF",709,-2.5,-1.1,-3.5,-0.3
+Kai Jones'21-'22,Hornets,PF,63,-7.6,-4.2,-11.8,-0.3
+Chimezie Metu'21-'22,Kings,"PF, C","1,279",-3.3,0.1,-3.3,-0.3
+Juwan Morgan'21-'22,Celtics,"PF, C",46,-2.7,-12.5,-15.3,-0.3
+Trayvon Palmer'21-'22,Pistons,SG,17,-7.6,-32,-39.6,-0.3
+Kevin Pangos'21-'22,Cavaliers,PG,166,-4.7,-2.2,-6.9,-0.3
+Norvel Pelle'21-'22,Jazz,C,19,-17.1,-15.7,-32.8,-0.3
+Justin Robinson'21-'22,Pistons,PG,304,-6.2,1.2,-5,-0.3
+Jeremiah Robinson-Earl'21-'22,Thunder,PF,"1,087",-3.9,0.7,-3.2,-0.3
+Admiral Schofield'21-'22,Magic,SF,469,-3,-1.1,-4.2,-0.3
+Tremont Waters'21-'22,Wizards,PG,50,-6.3,-6.8,-13.1,-0.3
+Joe Wieskamp'21-'22,Spurs,SF,205,-2.6,-2.7,-5.3,-0.3
+Santi Aldama'21-'22,Grizzlies,PF,360,-2.8,-1.9,-4.7,-0.4
+Justin Anderson'21-'22,Pacers,SF,316,-0.1,-4.8,-4.9,-0.4
+Trevor Ariza'21-'22,Lakers,"SF, PF",462,-4,-0.5,-4.5,-0.4
+Moses Brown'21-'22,Cavaliers,C,345,-4.2,-0.9,-5.1,-0.4
+Sharife Cooper'21-'22,Hawks,PG,39,-18.4,-4.9,-23.3,-0.4
+Joe Harris'21-'22,Nets,"SG, SF",423,-2.9,-1.8,-4.7,-0.4
+Justin Holiday'21-'22,Kings,"SG, SF","2,057",-1.2,-1.9,-3.1,-0.4
+Jalen Johnson'21-'22,Hawks,SF,129,-7.5,-1.7,-9.2,-0.4
+Didi Louzada'21-'22,Trail Blazers,SG,129,-7.1,-2.4,-9.5,-0.4
+KZ Okpala'21-'22,Heat,PF,244,-2.6,-3.3,-6,-0.4
+Jamorko Pickett'21-'22,Pistons,"SG, SF",176,-3.8,-3.5,-7.3,-0.4
+Jahmi'us Ramsey'21-'22,Kings,SG,134,-1.2,-7.3,-8.6,-0.4
+Cam Reddish'21-'22,Knicks,SF,"1,012",-2.7,-0.7,-3.5,-0.4
+Nick Richards'21-'22,Hornets,"PF, C",367,-4.1,-0.6,-4.7,-0.4
+Tony Snell'21-'22,Pelicans,"SG, SF",823,-2.3,-1.3,-3.6,-0.4
+Lonnie Walker IV'21-'22,Spurs,"SG, SF","1,612",-1.4,-1.8,-3.2,-0.4
+Brad Wanamaker'21-'22,Wizards,PG,320,-3.2,-2.1,-5.3,-0.4
+Lindell Wigginton'21-'22,Bucks,PG,199,-3.1,-3.4,-6.5,-0.4
+Patrick Williams'21-'22,Bulls,"SG, SF",575,-1.7,-2.5,-4.2,-0.4
+Ignas Brazdeikis'21-'22,Magic,"SF, PF",536,-1.6,-3,-4.6,-0.5
+Willie Cauley-Stein'21-'22,76ers,C,183,-4.6,-3.3,-7.9,-0.5
+Rui Hachimura'21-'22,Wizards,PF,943,-0.9,-3,-3.9,-0.5
+Jaylen Hoard'21-'22,Thunder,SF,240,-1.7,-5.2,-6.8,-0.5
+Alize Johnson'21-'22,Pelicans,PF,167,-2.8,-6.2,-8.9,-0.5
+Kevin Knox II'21-'22,Hawks,"SF, PF",231,-1.8,-5.7,-7.4,-0.5
+Svi Mykhailiuk'21-'22,Raptors,"SG, SF",721,-2.9,-1.3,-4.3,-0.5
+Daishen Nix'21-'22,Rockets,PG,261,-3.2,-3.2,-6.5,-0.5
+Reggie Perry'21-'22,Trail Blazers,PF,187,-4.6,-3.4,-8,-0.5
+Garrett Temple'21-'22,Pelicans,"SG, SF","1,100",-3,-0.6,-3.6,-0.5
+Yuta Watanabe'21-'22,Raptors,SF,455,-3.2,-1.9,-5.1,-0.5
+Aaron Wiggins'21-'22,Thunder,SG,"1,209",-1.8,-1.7,-3.5,-0.5
+Kessler Edwards'21-'22,Nets,SF,994,-2,-1.9,-3.9,-0.6
+Bryn Forbes'21-'22,Nuggets,SG,"1,362",-0.1,-3.5,-3.6,-0.6
+Jeff Green'21-'22,Nuggets,PF,"1,962",-1.5,-1.9,-3.4,-0.6
+Udonis Haslem'21-'22,Heat,"PF, C",83,-8.4,-8.6,-17.1,-0.6
+Haywood Highsmith'21-'22,Heat,SF,194,-4.2,-4.3,-8.6,-0.6
+Robin Lopez'21-'22,Magic,C,612,-2.6,-2.2,-4.8,-0.6
+Tre Mann'21-'22,Thunder,PG,"1,367",-2.2,-1.4,-3.7,-0.6
+Moses Moody'21-'22,Warriors,SG,712,-2.6,-1.7,-4.3,-0.6
+Elfrid Payton'21-'22,Suns,PG,557,-5.3,0.5,-4.8,-0.6
+Olivier Sarr'21-'22,Thunder,C,421,-3.4,-2.3,-5.8,-0.6
+Zavier Simpson'21-'22,Thunder,PG,174,-6.7,-2.8,-9.5,-0.6
+Brandon Williams'21-'22,Trail Blazers,PG,640,-2.8,-1.8,-4.6,-0.6
+James Bouknight'21-'22,Hornets,SG,304,-2.4,-5,-7.4,-0.7
+Avery Bradley'21-'22,Lakers,"PG, SG","1,406",-2.8,-1,-3.8,-0.7
+Chris Chiozza'21-'22,Warriors,PG,372,-4.6,-1.6,-6.2,-0.7
+Frank Jackson'21-'22,Pistons,"PG, SG","1,164",-1.5,-2.4,-3.9,-0.7
+Theo Maledon'21-'22,Thunder,PG,908,-3,-1.2,-4.2,-0.7
+Julius Randle'21-'22,Knicks,PF,"2,544",-2.3,-1,-3.3,-0.7
+Paul Watson'21-'22,Thunder,SF,156,-5.2,-6.3,-11.5,-0.7
+Russell Westbrook'21-'22,Lakers,"PG, SG","2,678",-1.2,-2.1,-3.2,-0.7
+Marquese Chriss'21-'22,Mavericks,C,376,-3.7,-3.1,-6.8,-0.8
+Serge Ibaka'21-'22,Bucks,"PF, C",899,-4,-0.5,-4.5,-0.8
+Alex Len'21-'22,Kings,C,620,-4.1,-1.3,-5.4,-0.8
+Mychal Mulder'21-'22,Heat,"PG, SG",239,-6.1,-3,-9.1,-0.8
+Tomas Satoransky'21-'22,Wizards,"SG, SF",906,-2.7,-1.7,-4.4,-0.8
+Ish Smith'21-'22,Wizards,PG,"1,126",-2.2,-2,-4.2,-0.8
+Oshae Brissett'21-'22,Pacers,"SF, PF","1,564",-1.1,-2.8,-3.9,-0.9
+Thomas Bryant'21-'22,Wizards,C,439,-2.8,-3.8,-6.6,-0.9
+Josh Christopher'21-'22,Rockets,SG,"1,334",-1.3,-2.7,-4.1,-0.9
+Ayo Dosunmu'21-'22,Bulls,SG,"2,196",-1.6,-1.9,-3.6,-0.9
+Drew Eubanks'21-'22,Trail Blazers,"PF, C","1,245",-2.5,-1.6,-4.1,-0.9
+Alfonzo McKinnie'21-'22,Bulls,SF,206,-3.5,-8,-11.5,-0.9
+Marcus Morris Sr.'21-'22,Clippers,"PF, C","1,564",-0.1,-3.8,-3.9,-0.9
+Joshua Primo'21-'22,Spurs,SG,965,-3.7,-0.8,-4.5,-0.9
+Cam Thomas'21-'22,Nets,SG,"1,176",-1.7,-2.5,-4.2,-0.9
+Melvin Frazier Jr.'21-'22,Thunder,SF,120,-10.1,-9.6,-19.7,-1
+Keifer Sykes'21-'22,Pacers,SG,566,-5.2,-1,-6.2,-1
+Killian Hayes'21-'22,Pistons,"PG, SG","1,647",-3.7,-0.4,-4.1,-1.1
+DeAndre Jordan'21-'22,76ers,C,653,-3.8,-2.1,-5.9,-1.1
+Georgios Kalaitzakis'21-'22,Thunder,SF,214,-6,-6.9,-12.9,-1.1
+Vit Krejci'21-'22,Thunder,PG,690,-2.9,-3,-5.9,-1.1
+Doug McDermott'21-'22,Spurs,"SF, PF","1,223",-0.1,-4.5,-4.6,-1.2
+Jonathan Kuminga'21-'22,Warriors,PF,"1,323",-2.7,-2,-4.7,-1.3
+Sandro Mamukelashvili'21-'22,Bucks,C,407,-1.7,-7.2,-8.8,-1.3
+Lance Stephenson'21-'22,Pacers,SF,814,-0.6,-5.3,-5.9,-1.3
+Ben McLemore'21-'22,Trail Blazers,"PG, SG","1,285",-1.6,-3.3,-4.9,-1.4
+Semi Ojeleye'21-'22,Clippers,PF,406,-5.4,-4.5,-9.9,-1.5
+Darius Bazley'21-'22,Thunder,"SF, PF","1,924",-3.6,-0.8,-4.4,-1.6
+CJ Elleby'21-'22,Trail Blazers,"SG, SF","1,174",-3.1,-2.3,-5.4,-1.6
+Elijah Hughes'21-'22,Trail Blazers,SF,434,-5.4,-4.8,-10.1,-1.6
+Keljin Blevins'21-'22,Trail Blazers,SG,349,-6,-6.4,-12.4,-1.7
+Jalen Green'21-'22,Rockets,SG,"2,138",-1.5,-2.7,-4.3,-1.7
+Terrence Ross'21-'22,Magic,"SG, SF","1,448",-1.7,-3.4,-5.1,-1.7
+Jordan Nwora'21-'22,Bucks,"SF, PF","1,205",-3.1,-2.5,-5.6,-1.8
+Greg Brown III'21-'22,Trail Blazers,"PF, C",640,-5.6,-3,-8.6,-1.9
+D.J. Augustin'21-'22,Lakers,PG,883,-1.5,-5.7,-7.2,-2
+Trendon Watford'21-'22,Trail Blazers,"PF, C",869,-2.7,-4.6,-7.3,-2
+R.J. Hampton'21-'22,Magic,"PG, SG","1,402",-3.6,-2.1,-5.7,-2.1
+Keon Johnson'21-'22,Trail Blazers,SG,697,-5.2,-3.4,-8.5,-2.1
